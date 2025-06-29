@@ -1,0 +1,50 @@
+.body{
+    background-color: #548687;
+}
+.game{
+    width: 300px;
+    height: 300px;
+    border-style: none;
+    justify-content: center;
+    margin-left: 470px;
+    margin-top: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 90px;
+    height: 90px;
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 5px;
+    margin-top: 5px;
+    box-shadow: 0px 0 10px rgba(0,0,0,0.5);
+    font-size: 60px;
+    background-color: white;
+    color: purple;
+}
+.RG{
+    margin-left: 570px;
+    margin-top: 40px;
+    width: 100px;
+    height: 40px;
+background-color: black;
+color: white;
+border-radius: 5px;
+border-style: none;
+}
+.winmessage{
+    margin-bottom: 10px;
+    margin-left: 560px;
+    font-size: 40px;
+}
+.newGame{
+    margin-left: 575px;
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+background-color: black;
+color: white;
+border-radius: 5px;
+border-style: none;
+}
